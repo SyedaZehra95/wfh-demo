@@ -5,5 +5,5 @@ The code is written in Python using tensorflow and openCV majorly. Furthermore, 
 
 To setup this project, 
 1. cd wfh-demo
-2. RUN pip install -r requirements.txt
+2. RUN pip install -r requirements_py3.txt
 3. RUN python3 manager.py
